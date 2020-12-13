@@ -29,5 +29,9 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 # Step:
 
+```
 ## npm install --save @ngrx/store
+```
+```
 ## npm install --save @ngrx/store-devtools
+```

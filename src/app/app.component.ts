@@ -27,3 +27,8 @@ export class AppComponent {
     this.store.dispatch({ type: "INCREMENT", payload: this.currentCounter % 2 == 0 ? 1 : 2 })
   }
 }
+
+
+// my component are dependent on api service
+// api service -> http service
+// http service -> http client

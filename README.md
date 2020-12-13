@@ -35,3 +35,9 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ```
 ## npm install --save @ngrx/store-devtools
 ```
+```
+## npm install --save @angular/flex-layout
+```
+```
+## npm install --save @angular/material
+```
